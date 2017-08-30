@@ -7,3 +7,15 @@ The [`nmodl` language](https://www.neuron.yale.edu/neuron/static/papers/nc2000/n
 ## pynmodl
 
 The [pynmodl](https://github.com/borismarin/pynmodl/tree/master/pynmodl) repositry contains a (`python`-based) parser for `mod` files, providing infrastructure for building compilers from `mod` to other languages. It includes basic support for generating LEMS ([usage example](https://github.com/borismarin/pynmodl/blob/master/pynmodl/tests/compiling/lems/test_lemsgen.py)).
+
+## pynml-channelanalysis + pynml-modchananalysis
+
+See http://www.opensourcebrain.org/docs#Converting_To_NeuroML2
+
+## pyNeuroML
+
+See https://github.com/NeuroML/pyNeuroML
+
+## ICG mod files
+
+See 
