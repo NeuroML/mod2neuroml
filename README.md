@@ -18,4 +18,6 @@ See https://github.com/NeuroML/pyNeuroML
 
 ## ICG mod files
 
-See 
+See https://github.com/icgenealogy/icg-channels-K/
+
+
